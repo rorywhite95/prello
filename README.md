@@ -4,7 +4,8 @@ Analytical Model supporting the strategic expansion of PropTech company Prello b
 # Context
 Prello, founded in 2021, is a pioneering proptech company specializing in the sale and management of second homes. With a mission to transform the second home market, Prello offers options for both co-purchase and single purchase, along with comprehensive services such as legal support, renovations, Airbnb rental management, and co-owner collaboration. To strategically expand their reach, Prello aims to identify optimal areas for deploying property hunters.
 
-My goal is to devise a scoring system for French towns, ranking them from most to least attractive for Prello’s operations, using abundant open-source data from France to build the analytical model.
+# Goal
+Devise a scoring system for French towns, ranking them from most to least attractive for Prello’s operations, using abundant open-source data from France to build the analytical model.
 
 # Data Structure
 The database structure consists of 6 tables, with a combined 4,738,212 total records.
