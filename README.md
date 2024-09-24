@@ -13,7 +13,7 @@ The primary key for each table is "municipality_code".
 
 ![2024-09-24 (1)](https://github.com/user-attachments/assets/f2181293-ffcb-4e80-8cdd-7f760910c099)
 
-# Model
+# KPIs
 The rankings were calculated based on 3 KPIs:
 - Average Sale Price: Prello charges 8% on property or share value, so high-end areas more profitable for the company
 - Housing Stress Level: Areas with unaffordable rent or living conditions / high default rates are penalised
