@@ -15,16 +15,15 @@ The primary key for each table is "municipality_code".
 
 # KPIs
 The rankings were calculated based on 3 KPIs:
-- Average Sale Price: Prello charges 8% on property or share value, so high-end areas more profitable for the company
+- Profitability (Average Sale Price): Prello charges 8% on property or share value, so high-end areas more profitable for the company
 - Housing Stress Level: Areas with unaffordable rent or living conditions / high default rates are penalised
-- Tourism "Score": Quantifying the number and importance of tourist sites in the area. Higher tourism demand increases rental opportunities.
+- Tourism "Score": Quantifying the number and importance of tourist sites in the area. Higher tourism demand increases rental opportunities
 
 The KPIs were then weighted and tested to fine tune the model until results matched intuitions regarding optimal locations for second homes
 
-# Insights
-
 ![2024-09-24 (5)](https://github.com/user-attachments/assets/9227df17-a032-450d-abad-bcee3820917e)
 
+# Insights
 
 ![2024-09-24 (4)](https://github.com/user-attachments/assets/0434b3a4-2e83-4aec-89ab-5b23f66cf77d)
 
