@@ -1,5 +1,5 @@
-# Description
-Analytical Model supporting the strategic expansion of PropTech company Prello by identifying optimal locations in France for the deployment of property hunters. Built using SQL, Python (incl. NumPy, Pandas and Scikit-Learn) and Power BI.
+
+# Analytical Model supporting the strategic expansion of PropTech company Prello by identifying optimal locations in France for the deployment of property hunters. Built using SQL, Python (incl. NumPy, Pandas and Scikit-Learn) and Power BI.
 
 # Context
 Prello, founded in 2021, is a pioneering proptech company specializing in the sale and management of second homes. With a mission to transform the second home market, Prello offers options for both co-purchase and single purchase, along with comprehensive services such as legal support, renovations, Airbnb rental management, and co-owner collaboration. To strategically expand their reach, Prello aims to identify optimal areas for deploying property hunters.
