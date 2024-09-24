@@ -22,5 +22,6 @@ These rankings were calculated based on 3 KPIs:
 - Average Sale Price: Prello charges 8% on property or share value, so high-end areas more profitable for the company
 - Housing Stress Level: Areas with unaffordable rent or living conditions / high default rates are penalised
 - Tourism "Score": Quantifying the number and importance of tourist sites in the area. Higher tourism demand increases rental opportunities.
+
 The KPIs were then weighted and tested to fine tune the model until results matched intuitions regarding optimal locations for second homes.
 
