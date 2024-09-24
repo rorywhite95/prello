@@ -12,3 +12,5 @@ The database structure consists of 6 tables, with a combined 4,738,212 total rec
 The primary key for every table is "municipality_code".
 
 ![2024-09-24 (1)](https://github.com/user-attachments/assets/f2181293-ffcb-4e80-8cdd-7f760910c099)
+
+# Insights
