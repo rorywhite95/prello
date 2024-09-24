@@ -14,3 +14,10 @@ The primary key for every table is "municipality_code".
 ![2024-09-24 (1)](https://github.com/user-attachments/assets/f2181293-ffcb-4e80-8cdd-7f760910c099)
 
 # Insights
+Top location rankings, calculated based on 3 KPIs:
+- Average Sale Price: Prello charges 8% on property or share value, so high-end areas more profitable for the company
+- Housing Stress Level: Areas with unaffordable rent or living conditions / high default rates are penalised
+- Tourism "Score": Quantifying the number and importance of tourist sites in the area. Higher tourism demand increases rental opportunities.
+
+![rankinggit](https://github.com/user-attachments/assets/d9657827-fa10-4b79-b2d2-ac46e25b88d9)
+
