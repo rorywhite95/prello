@@ -16,7 +16,8 @@ The primary key for each table is "municipality_code".
 # Insights
 Top 30 location rankings:
 
-![rankinggit](https://github.com/user-attachments/assets/d9657827-fa10-4b79-b2d2-ac46e25b88d9)
+![2024-09-24 (4)](https://github.com/user-attachments/assets/0434b3a4-2e83-4aec-89ab-5b23f66cf77d)
+
 
 These rankings were calculated based on 3 KPIs:
 - Average Sale Price: Prello charges 8% on property or share value, so high-end areas more profitable for the company
