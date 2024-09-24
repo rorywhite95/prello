@@ -21,7 +21,7 @@ The rankings were calculated based on 3 KPIs:
 
 The KPIs were then weighted and tested to fine tune the model until results matched intuitions regarding optimal locations for second homes
 
-# Insights
+# Ranking
 
 ![2024-09-24 (4)](https://github.com/user-attachments/assets/0434b3a4-2e83-4aec-89ab-5b23f66cf77d)
 
