@@ -9,12 +9,12 @@ My goal is to devise a scoring system for French towns, ranking them from most t
 # Data Structure
 The database structure consists of 6 tables, with a combined 4,738,212 total records.
 
-The primary key for every table is "municipality_code".
+The primary key for each table is "municipality_code".
 
 ![2024-09-24 (1)](https://github.com/user-attachments/assets/f2181293-ffcb-4e80-8cdd-7f760910c099)
 
 # Insights
-Top location rankings:
+Top 30 location rankings:
 
 ![rankinggit](https://github.com/user-attachments/assets/d9657827-fa10-4b79-b2d2-ac46e25b88d9)
 
