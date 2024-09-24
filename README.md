@@ -31,7 +31,7 @@ The KPIs were then weighted and tested to fine tune the model until results matc
 # Insights
 
 - Sharp decline from top scores, suggesting there are small percentage of locations significantly more optimal with respect to the KPI criteria
-- Majority of top ranking locations situated on the coast, fitting with general intuitions about second homes
+- 82% of top 50 locations situated on the coast, fitting with general intuitions about second homes
 
 ![2024-09-24 (6)](https://github.com/user-attachments/assets/a9ff708a-0e65-408c-bc9c-44326ca9d53c)
 
