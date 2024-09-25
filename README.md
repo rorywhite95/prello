@@ -13,7 +13,7 @@ The primary key for each table is "municipality_code".
 
 ![2024-09-24 (1)](https://github.com/user-attachments/assets/f2181293-ffcb-4e80-8cdd-7f760910c099)
 
-Data Lineage:
+Lineage:
 
 ![2024-09-24 (7)](https://github.com/user-attachments/assets/b368faf5-71cd-473f-9caa-a33361fd493d)
 
